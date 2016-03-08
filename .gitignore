@@ -30,3 +30,12 @@
 
 # Debug files
 *.dSYM/
+
+# Netbeans IDE files
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+.nb-gradle/
